@@ -1,0 +1,6 @@
+"D:\Arvhivos de Programa\CLion 2022.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/Arvhivos de Programa/CLion 2022.2/bin/ninja/win/ninja.exe" -G Ninja -S C:\Users\julio\CLionProjects\demo2 -B C:\Users\julio\CLionProjects\demo2\cmake-build-debug
+-- C:/Users/julio/CLionProjects/demo2
+-- Found SFML 2.5.1 in C:/Users/julio/DevLibraries/SFML/64bit/SFML-2.5.1/lib/cmake/SFML
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/julio/CLionProjects/demo2/cmake-build-debug
